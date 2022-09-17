@@ -25,4 +25,3 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 I struggled with working with the AlamofireImage libraries. Whenever I got stuck, I asked for help in Slack and restart my work. I also had to troubleshoot the installation of cocoapods for the utilization of the AlamofireImage library.
- 
