@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ![](https://i.imgur.com/JKXuV5X.gif)
 
 ### Notes
-Describe any challenges encountered while building the app.
+I need to remember every time I have a new view controller or create a new page, I want to make sure that I assign them to the right class.
 
 ---
 
